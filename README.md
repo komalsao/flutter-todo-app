@@ -1,7 +1,9 @@
 # Flutter To-Do App
 
 A simple To-Do List mobile application built using Flutter and Dart.
+## App Screenshot
 
+![App Screenshot](app.png)
 ## Features
 - Add tasks
 - Mark tasks as complete
